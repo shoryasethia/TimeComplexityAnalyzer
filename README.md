@@ -31,5 +31,5 @@ To run this application locally, follow these steps:
 * The application will display the computed time complexity (e.g., O(n), O(n^2), etc.) and a corresponding plot.
 
 
-## Owner [@shoryasethia](https://github.com/shoryasethia)
+### Owner [@shoryasethia](https://github.com/shoryasethia)
 > If you liked the repo, do give it a star
