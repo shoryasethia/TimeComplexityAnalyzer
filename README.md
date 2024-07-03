@@ -6,15 +6,7 @@ This Streamlit application analyzes the time complexity of code snippets using G
 
 To run this application locally, follow these steps:
 
-### Prerequisites
-
-- Python 3.x
-- Streamlit
-- Matplotlib
-- `google.generativeai` (from Google)
-- `.env` file with `GOOGLE_API_KEY` containing your Google API key
-
-### Installation
+### Installation and Set Up
 
 1. Clone the repository:
    ```
@@ -25,14 +17,14 @@ To run this application locally, follow these steps:
    ```
    pip install -r requirements.txt
    ```
-3. Edit .env file in the root directory with your Google API key:
-  ```
-  GOOGLE_API_KEY='your_google_api_key_here'
-  ```
+3. Edit `.env` file in the root directory with your Google API key:
+   ```
+   GOOGLE_API_KEY='your_google_api_key_here'
+   ```
 4. Running the Application:
-  ```
-  streamlit run TimeComplexityAnalyzer.py
-  ```
+   ```
+   streamlit run TimeComplexityAnalyzer.py
+   ```
 ## Usage
 * Enter your code snippet in the provided text area.
 * Click on the Analyze button to analyze the time complexity.
