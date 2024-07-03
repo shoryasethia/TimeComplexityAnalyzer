@@ -1,6 +1,9 @@
 # Code Time Complexity Analyzer
 
 This Streamlit application analyzes the time complexity of code snippets using Google's Generative AI and displays the complexity along with a plot using matplotlib.
+![Home Page](https://github.com/shoryasethia/TimeComplexityAnalyzer/blob/main/res/HomePg.png)
+> For Video Demo click [here](https://github.com/shoryasethia/TimeComplexityAnalyzer/blob/main/res/TimeComplexityAnalyzer)
+
 
 ## Getting Started
 
