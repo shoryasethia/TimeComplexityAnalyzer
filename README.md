@@ -1,6 +1,8 @@
 # [Code Time Complexity Analyzer](https://shoryasethia-timecomplexityanalyz-timecomplexityanalyzer-ojocz4.streamlit.app/)
 > Access deployed app from [here](https://shoryasethia-timecomplexityanalyz-timecomplexityanalyzer-ojocz4.streamlit.app/)
+
 >  URL : https://shoryasethia-timecomplexityanalyz-timecomplexityanalyzer-ojocz4.streamlit.app/
+
 This Streamlit application analyzes the time complexity of code snippets using Google's Generative AI and displays the complexity along with a plot using matplotlib.
 > **For Video Demo click [here](https://github.com/shoryasethia/TimeComplexityAnalyzer/blob/main/res/TimeComplexityAnalyzer.mp4)**
 
